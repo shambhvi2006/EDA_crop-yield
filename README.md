@@ -96,5 +96,3 @@ This helps determine which algorithms best handle real-world agricultural data.
 
 ---
 
-## 📁 Repository Structure  
-
